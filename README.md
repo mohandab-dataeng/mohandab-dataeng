@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Mohand > Data Engineer
 
-Freelance Data Engineer en formation certifiante RNCP Niveau 7 (OpenClassrooms), je conçois des pipelines de données batch et streaming, des architectures NoSQL/SQL, et des systèmes RAG/LLM de bout en bout — du choix technique à la mise en production chiffrée.
+Freelance Data Engineer, je conçois des pipelines de données batch et streaming, des architectures NoSQL/SQL, et des systèmes RAG/LLM de bout en bout — du choix technique à la mise en production chiffrée.
 
 ## 🛠️ Stack
 
