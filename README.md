@@ -2,7 +2,7 @@
 
 Freelance Data Engineer, je conçois des pipelines de données batch et streaming, des architectures NoSQL/SQL, et des systèmes RAG/LLM de bout en bout — du choix technique à la mise en production chiffrée.
 
-## 🛠️ Stack
+## Stack
 
 **Langages & outils** : Python, SQL, Bash, Docker, uv
 **Bases de données** : PostgreSQL, MongoDB, DuckDB, Qdrant
@@ -13,7 +13,7 @@ Freelance Data Engineer, je conçois des pipelines de données batch et streamin
 **Monitoring** : Grafana, Prometheus, CloudWatch
 **System** : Linux Kubuntu LTS
 
-## 🚀 Projets
+## Projets
 
 | Projet | Stack | Résultat |
 |---|---|---|
@@ -26,6 +26,6 @@ Freelance Data Engineer, je conçois des pipelines de données batch et streamin
 | 🎫 [ticket-stream-pipeline](https://github.com/mohandab-dataeng/ticket-stream-pipeline) | Redpanda, PySpark Structured Streaming | Pipeline temps réel démontré en continu, agrégation par fenêtre 30s |
 | 🏃 [activity-cdc-stream](https://github.com/mohandab-dataeng/activity-cdc-stream) | PostgreSQL, Redpanda/Debezium, PySpark, Delta Lake, Grafana | Architecture medallion (bronze/silver) avec CDC, alerting Slack automatique |
 
-## 🎯 Compétences démontrées
+## Compétences démontrées
 
 Conception de pipelines batch et streaming · Modélisation de données relationnelle et NoSQL · Orchestration (Kestra) · Déploiement cloud (AWS, GCP) · Qualité et tests automatisés des données · Conteneurisation (Docker) · Mise en production de modèles ML (MLOps) · Architecture RAG/LLM et pilotage de projet data de bout en bout
